@@ -29,7 +29,7 @@ def main():
         
         if choice >= 1 and choice <= 3:
             UProgram.run_program(choice)
-        if choice >= 4:
+        elif choice >= 4:
             input("Mohon Masukan Angka yang benar")
             
 if __name__ == "__main__":
