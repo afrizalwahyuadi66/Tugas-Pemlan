@@ -16,6 +16,6 @@ NIM     : 11230070
 # Use
   
   ```
-  cd Tugas-Pemlan/UTS-ANS7
+  cd Tugas-Pemlan/TugasUTS
   python UTS-Pemlan.py
   ```
